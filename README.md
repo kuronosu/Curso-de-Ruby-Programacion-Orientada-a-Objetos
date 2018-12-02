@@ -14,7 +14,7 @@ Repositorio con los contenidos del [Curso de Ruby: Programación Orientada a Obj
     1. [x] ¿Por qué Programación Orientada a Objetos?
     2. [x] Ruby es una fábrica y todo es un objeto
     3. [x] Intro a Objeto: Identidad, Comportamiento y Atributos
-    4. [ ] Primer proyecto y Esqueleto para proyectos
+    4. [x] Primer proyecto y Esqueleto para proyectos
 * Produciendo Objetos
     1. [ ] Métodos Privados: Manipulando Ruby con funciones
     2. [ ] Clases: Initializers y el estado inicial del producto
