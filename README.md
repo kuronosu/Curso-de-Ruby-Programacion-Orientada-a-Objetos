@@ -20,7 +20,7 @@ Repositorio con los contenidos del [Curso de Ruby: Programación Orientada a Obj
     2. [x] Clases: Initializers y el estado inicial del producto
     3. [x] Encapsulando métodos de clase
     4. [x] Variables y Polimorfismo
-    5. [ ] Serializando Objetos
+    5. [x] Serializando Objetos
 * Más allá del concepto de Fábrica
     1. [ ] Hashes y Símbolos
     2. [ ] Accesores: Acceso VIP a tus atributos
