@@ -23,7 +23,7 @@ Repositorio con los contenidos del [Curso de Ruby: Programación Orientada a Obj
     5. [x] Serializando Objetos
 * Más allá del concepto de Fábrica
     1. [x] Hashes y Símbolos
-    2. [ ] Accesores: Acceso VIP a tus atributos
+    2. [x] Accesores: Acceso VIP a tus atributos
     3. [ ] Aplicando excepciones
     4. [ ] Condicionales: if, else, elsif, case, unless
     5. [ ] Loops: While, until, for, next, redo, retry

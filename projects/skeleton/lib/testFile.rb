@@ -1,5 +1,8 @@
 class Humano
-    attr_accessor :name, :age # crea los métodos getter y setter para los atributos especificados
+    attr_reader :onlyReader # Atributo de solo lectura (getter)
+    protected
+        attr_accessor :name, :age # crea los métodos getter y setter para los atributos especificados
+    attr_writer :onlyWriter
 
     def initialize(name, age, genre)
         # Variables de instancia
