@@ -25,7 +25,7 @@ Repositorio con los contenidos del [Curso de Ruby: Programación Orientada a Obj
     1. [x] Hashes y Símbolos
     2. [x] Accesores: Acceso VIP a tus atributos
     3. [x] Aplicando excepciones
-    4. [ ] Condicionales: if, else, elsif, case, unless
+    4. [x] Condicionales: if, else, elsif, case, unless
     5. [ ] Loops: While, until, for, next, redo, retry
     5. [ ] Procedimientos y Lambdas
     6. [ ] Módulos (librerías): Caja de herramientas
